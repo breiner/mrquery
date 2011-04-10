@@ -1,0 +1,2 @@
+a = "oded"
+puts a
